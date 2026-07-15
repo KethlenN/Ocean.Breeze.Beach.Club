@@ -1,4 +1,4 @@
-# Ocean.Breeze.Beach.Club 🌴
+# Ocean.Breeze.Beach.Club 🌴🌊
 
 --------
 
@@ -45,7 +45,7 @@ Sistema de pontos e benefícios.
 
 - Python
 - Lógica de programação
-- Estruturas condicionais
+- Estruturas 
 - Laços de repetição
 - Listas e dicionários
   
