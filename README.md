@@ -1,6 +1,6 @@
 🌴 Ocean.Breeze.Beach.Club 🌴
 
-# 🏖️ Python Management System
+# 🏖️ Python System
 
 # Um projeto de simulação desenvolvido em Python que recria o funcionamento de um clube de praia.
 
