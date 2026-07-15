@@ -4,9 +4,9 @@
 
 # 🏖️ Python System
 
-# Um projeto de simulação desenvolvido em Python que recria o funcionamento de um clube de praia.
+Um projeto de simulação desenvolvido em Python que recria o funcionamento de um clube de praia.
 
-# O sistema representa diferentes áreas de uma empresa, incluindo reservas, hospedagem, restaurantes, serviços, clientes, eventos e controles financeiros
+O sistema representa diferentes áreas de uma empresa, incluindo reservas, hospedagem, restaurantes, serviços, clientes, eventos e controles financeiros.
 
 ---------
 
