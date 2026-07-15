@@ -46,7 +46,7 @@ Sistema de pontos e benefícios.
 - Python
 - Lógica de programação
 - Estruturas 
-- Laços de repetição
+- Laços 
 - Listas e dicionários
   
 -------
